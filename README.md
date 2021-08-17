@@ -1,5 +1,6 @@
 # extract-data-from-amazon
 **In this project I extracted data from amazon by [scrapy](https://scrapy.org/) framework and I crate two parses in spider**
+**you can go to spider from here ./amazon/spiders/amazom_ssd.py**
 #### First parse 
 this parse created to scrape data from main page in SSD **such as** 
 -name 
